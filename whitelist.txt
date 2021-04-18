@@ -1,2 +1,4 @@
 # pihole-updatelists - WHITELIST
 pps.whatsapp.net
+ichnaea.netflix.com
+nrdp.prod.ftl.netflix.com
