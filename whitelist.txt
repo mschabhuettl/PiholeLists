@@ -10,3 +10,4 @@ scontent-vie1-1.xx.fbcdn.net
 chat.studo.co
 api.studo.co
 media-vie1-1.cdn.whatsapp.net
+contacts.google.com
