@@ -12,3 +12,4 @@ api.studo.co
 media-vie1-1.cdn.whatsapp.net
 contacts.google.com
 scontent-vie1-1.cdninstagram.com
+apis.google.com
