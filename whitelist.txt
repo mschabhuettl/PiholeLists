@@ -13,3 +13,4 @@ media-vie1-1.cdn.whatsapp.net
 contacts.google.com
 scontent-vie1-1.cdninstagram.com
 apis.google.com
+encrypted-tbn0.gstatic.com
