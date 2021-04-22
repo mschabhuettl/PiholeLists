@@ -2,3 +2,8 @@
 pps.whatsapp.net
 ichnaea.netflix.com
 nrdp.prod.ftl.netflix.com
+m.facebook.com
+connect.facebook.net
+www.facebook.com
+static.xx.fbcdn.net
+scontent-vie1-1.xx.fbcdn.net
