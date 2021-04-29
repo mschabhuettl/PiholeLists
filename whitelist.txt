@@ -15,3 +15,5 @@ scontent-vie1-1.cdninstagram.com
 apis.google.com
 encrypted-tbn0.gstatic.com
 stackoverflow.com
+youtube.com
+www.youtube.com
