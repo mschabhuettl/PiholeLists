@@ -17,3 +17,4 @@ encrypted-tbn0.gstatic.com
 stackoverflow.com
 youtube.com
 www.youtube.com
+static-cdn.jtvnw.net
