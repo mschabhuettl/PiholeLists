@@ -56,6 +56,7 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
 https://raw.githubusercontent.com/Monstanner/DuckDuckGo-Fakeshops-Blocklist/main/Blockliste
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
 
 ### Werbung
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
@@ -93,6 +94,7 @@ https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 
 ### Diverse
 https://dbl.oisd.nl/
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science
 https://raw.githubusercontent.com/SoftCreatR/fakerando-domains/main/all.txt
