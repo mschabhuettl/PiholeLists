@@ -18,3 +18,5 @@ stackoverflow.com
 youtube.com
 www.youtube.com
 static-cdn.jtvnw.net
+star.c10r.facebook.com
+mqtt.c10r.facebook.com
