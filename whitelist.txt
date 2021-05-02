@@ -22,3 +22,4 @@ star.c10r.facebook.com
 mqtt.c10r.facebook.com
 instagram.com
 i.instagram.com
+imgur.com
