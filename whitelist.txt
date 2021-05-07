@@ -25,3 +25,4 @@ i.instagram.com
 imgur.com
 parser.studo.co
 www.willhaben.at
+supervisor.ext-twitch.tv
