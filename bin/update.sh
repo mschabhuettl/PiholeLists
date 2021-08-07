@@ -30,8 +30,5 @@ sqlite3 /etc/pihole/gravity.db "DELETE FROM domainlist_by_group"
 # update Pi-hole's lists from remote sources
 pihole-updatelists
 
-# update PiVPN
-pivpn update
-
 # reboot Raspberry Pi
 reboot
