@@ -27,3 +27,6 @@ parser.studo.co
 www.willhaben.at
 supervisor.ext-twitch.tv
 sourceforge.net
+feeds.feedburner.com
+feedburner.google.com
+feedproxy.google.com
