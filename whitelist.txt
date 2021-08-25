@@ -30,3 +30,4 @@ sourceforge.net
 feeds.feedburner.com
 feedburner.google.com
 feedproxy.google.com
+onesignal.com
