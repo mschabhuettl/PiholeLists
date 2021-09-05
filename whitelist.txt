@@ -31,3 +31,4 @@ feeds.feedburner.com
 feedburner.google.com
 feedproxy.google.com
 onesignal.com
+redirector.gvt1.com
