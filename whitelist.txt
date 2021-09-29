@@ -33,3 +33,4 @@ feedproxy.google.com
 onesignal.com
 redirector.gvt1.com
 battle.net
+usage.influxdata.com
