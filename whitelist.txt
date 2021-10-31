@@ -39,3 +39,4 @@ accounts.scdn.co
 open.scdn.co
 i.scdn.co
 seektables.scdn.co
+pixel-offers.com
