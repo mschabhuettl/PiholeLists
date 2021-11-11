@@ -41,3 +41,4 @@ i.scdn.co
 seektables.scdn.co
 pixel-offers.com
 notifications.google.com
+mandrillapp.com
