@@ -45,3 +45,5 @@ mandrillapp.com
 cast.scdn.co
 store.steampowered.com
 unpkg.com
+account.xiaomi.com
+url8807.global.passport.xiaomi.com
