@@ -1,1 +1,2 @@
 # pihole-updatelists - REGEX_WHITELIST
+(\.|^)api\.io\.mi\.com$
