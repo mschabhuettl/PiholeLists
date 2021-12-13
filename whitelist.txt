@@ -44,3 +44,4 @@ notifications.google.com
 mandrillapp.com
 cast.scdn.co
 store.steampowered.com
+unpkg.com
