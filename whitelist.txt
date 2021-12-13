@@ -34,6 +34,7 @@ onesignal.com
 redirector.gvt1.com
 battle.net
 usage.influxdata.com
+store.steampowered.com
 www-growth.scdn.co
 accounts.scdn.co
 open.scdn.co
