@@ -48,3 +48,5 @@ unpkg.com
 account.xiaomi.com
 url8807.global.passport.xiaomi.com
 sts.api.io.mi.com
+www.zenaps.com
+www.awin1.com
