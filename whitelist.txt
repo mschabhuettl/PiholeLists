@@ -54,3 +54,4 @@ graphql.instagram.com
 www.instagram.com
 images.secretlab.co
 cdn.shopify.com
+assets-secure.applicaster.com
