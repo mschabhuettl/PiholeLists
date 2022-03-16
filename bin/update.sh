@@ -10,7 +10,10 @@ fi
 apt update
 
 # upgrade all installed packages
-apt full-upgrade -y
+apt upgrade -y
+
+# remove packages that are now no longer needed
+apt autoremove -y
 
 # update Pi-hole Core, Web Interface and FTL
 pihole -up
@@ -30,5 +33,5 @@ sqlite3 /etc/pihole/gravity.db "DELETE FROM domainlist_by_group"
 # update Pi-hole's lists from remote sources
 pihole-updatelists
 
-# reboot Raspberry Pi
+# reboot host
 reboot
