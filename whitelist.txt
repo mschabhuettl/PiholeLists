@@ -56,3 +56,5 @@ images.secretlab.co
 cdn.shopify.com
 assets-secure.applicaster.com
 lm.facebook.com
+b.i.instagram.com
+scontent.cdninstagram.com
