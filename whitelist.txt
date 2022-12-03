@@ -61,3 +61,4 @@ scontent.cdninstagram.com
 api.onesignal.com
 gfe.nvidia.com
 services.sheerid.com
+middleware.p7s1.io
