@@ -66,5 +66,6 @@ idealo.at
 www.idealo.at
 idealo.de
 www.idealo.de
+maxmind.com
 www.maxmind.com
 static.maxmind.com
