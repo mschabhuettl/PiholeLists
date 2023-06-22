@@ -69,3 +69,4 @@ www.idealo.de
 maxmind.com
 www.maxmind.com
 static.maxmind.com
+firebaseinstallations.googleapis.com
