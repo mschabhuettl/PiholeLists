@@ -73,3 +73,8 @@ firebaseinstallations.googleapis.com
 device-provisioning.googleapis.com
 geller-pa.googleapis.com
 mtalk.google.com
+google.com
+www.google.com
+gstatic.com
+www.gstatic.com
+ssl.gstatic.com
