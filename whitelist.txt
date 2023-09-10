@@ -79,3 +79,6 @@ gstatic.com
 www.gstatic.com
 ssl.gstatic.com
 playerdb.co
+iam.viessmann.com
+viessmann.com
+api.viessmann.com
