@@ -84,3 +84,4 @@ viessmann.com
 api.viessmann.com
 nordvpn.com
 www.nordvpn.com
+wikimedia.org
