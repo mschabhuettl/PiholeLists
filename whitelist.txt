@@ -87,3 +87,4 @@ www.nordvpn.com
 wikimedia.org
 mediamarkt.at
 www.mediamarkt.at
+archive.raspberrypi.org
