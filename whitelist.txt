@@ -88,3 +88,4 @@ wikimedia.org
 mediamarkt.at
 www.mediamarkt.at
 archive.raspberrypi.org
+cdn.awsde0.fds.api.mi-img.com
