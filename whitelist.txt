@@ -66,9 +66,6 @@ idealo.at
 www.idealo.at
 idealo.de
 www.idealo.de
-maxmind.com
-www.maxmind.com
-static.maxmind.com
 firebaseinstallations.googleapis.com
 device-provisioning.googleapis.com
 geller-pa.googleapis.com
