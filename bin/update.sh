@@ -24,11 +24,8 @@ sed -e '/pihole updateGravity/ s/^#*/#/' -i /etc/cron.d/pihole
 # update pihole-updatelists script
 pihole-updatelists --update
 
-# wipe all adlists and domains
-sqlite3 /etc/pihole/gravity.db "DELETE FROM adlist"
-sqlite3 /etc/pihole/gravity.db "DELETE FROM adlist_by_group"
-sqlite3 /etc/pihole/gravity.db "DELETE FROM domainlist"
-sqlite3 /etc/pihole/gravity.db "DELETE FROM domainlist_by_group"
+# rebuilds the Pi-hole Gravity database from scratch using all configured blocklists
+pihole -g -r recreate
 
 # update Pi-hole's lists from remote sources
 pihole-updatelists
