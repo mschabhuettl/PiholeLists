@@ -1,0 +1,12 @@
+apt install php-cli php-common php-curl php-intl php-sqlite3 sqlite3 -y
+wget -O - https://raw.githubusercontent.com/jacklul/pihole-updatelists/master/install.sh | bash
+sed -e '/pihole updateGravity/ s/^#*/#/' -i /etc/cron.d/pihole
+systemctl edit pihole-FTL.service
+systemctl edit pihole-updatelists.timer
+pihole -g -r recreate
+nano /etc/pihole-updatelists.conf
+pihole-updatelists
+pihole setpassword
+nano update.sh
+chmod +x update.sh
+./update.sh
