@@ -48,5 +48,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add archlinux-mirror-whitelist.txt
           git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "Daily update: Arch mirror whitelist"
+          git commit -m "Daily update: refreshed Arch Linux mirror whitelist"
           git push
