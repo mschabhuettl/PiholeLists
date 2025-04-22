@@ -3,7 +3,7 @@ al.arch.niranjan.co
 america.mirror.pkgbuild.com
 arch-lux.spirex.me
 arch-mirror.brightlight.today
-arch-mirror.marcusspencer.xyz:4443
+arch-mirror.marcusspencer.xyz
 arch-mirror.wtako.net
 arch.goober.cloud
 arch.hu.fo
@@ -574,7 +574,7 @@ us.arch.niranjan.co
 us.mirrors.cicku.me
 volico.mm.fcix.net
 vpsmurah.jagoanhosting.com
-wcbmedia.io:8000
+wcbmedia.io
 web.sketserv.ru
 www.caco.ic.unicamp.br
 www.gutscheindrache.com
