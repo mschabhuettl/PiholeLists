@@ -1,0 +1,52 @@
+name: Update Arch Linux Mirror Whitelist
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-whitelist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download and extract mirror domains
+        run: |
+          set -e
+
+          # Define output file
+          OUTPUT_FILE="archlinux-mirror-whitelist.txt"
+          TEMP_FILE="temp_whitelist.txt"
+
+          # Download and extract domains
+          DOMAINS=$(curl -fsSL https://archlinux.org/mirrorlist/all/ \
+            | grep -oP '(?<=Server = )[^\$]+' \
+            | sed -E 's|https?://([^/]+)/.*|\1|' \
+            | sort -u)
+
+          # Check if domains were found
+          if [ -z "$DOMAINS" ]; then
+            echo "No domains found. Skipping file update."
+            exit 0
+          fi
+
+          # Write header and domains to temp file
+          {
+            echo "# pihole-updatelists - ARCHLINUX-MIRROR-WHITELIST"
+            echo "$DOMAINS"
+          } > "$TEMP_FILE"
+
+          # Move temp file into place
+          mv "$TEMP_FILE" "$OUTPUT_FILE"
+
+      - name: Commit and push changes
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add archlinux-mirror-whitelist.txt
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Daily update: refreshed Arch Linux mirror whitelist"
+          git push
