@@ -20,10 +20,10 @@ jobs:
           OUTPUT_FILE="archlinux-mirror-whitelist.txt"
           TEMP_FILE="temp_whitelist.txt"
 
-          # Download and extract domains
+          # Download and extract domains (strip protocol, ports, paths)
           DOMAINS=$(curl -fsSL https://archlinux.org/mirrorlist/all/ \
             | grep -oP '(?<=Server = )[^\$]+' \
-            | sed -E 's|https?://([^/]+)/.*|\1|' \
+            | sed -E 's|https?://([^/:]+)(:[0-9]+)?/.*|\1|' \
             | sort -u)
 
           # Check if domains were found
@@ -48,5 +48,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add archlinux-mirror-whitelist.txt
           git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "Daily update: refreshed Arch Linux mirror whitelist"
+          git commit -m "Daily update: Arch mirror whitelist"
           git push
