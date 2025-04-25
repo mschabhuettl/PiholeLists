@@ -259,6 +259,7 @@ mirror.fsmg.org.nz
 mirror.fsrv.services
 mirror.funami.tech
 mirror.gi.co.id
+mirror.givebytes.net
 mirror.group.one
 mirror.guillaumea.fr
 mirror.hafeezh.com
@@ -294,6 +295,7 @@ mirror.jordanrey.me
 mirror.juniorjpdj.pl
 mirror.kaminski.io
 mirror.kamtv.ru
+mirror.keiminem.com
 mirror.kku.ac.th
 mirror.koddos.net
 mirror.kpfu.ru
@@ -458,6 +460,7 @@ mirrors.jlu.edu.cn
 mirrors.jtremesay.org
 mirrors.jxust.edu.cn
 mirrors.kernel.org
+mirrors.lahansons.com
 mirrors.liquidweb.com
 mirrors.lug.mtu.edu
 mirrors.m247.ro
