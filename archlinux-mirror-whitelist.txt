@@ -246,7 +246,6 @@ mirror.dkm.cz
 mirror.dogado.de
 mirror.easyname.at
 mirror.efect.ro
-mirror.eto.dev
 mirror.ette.biz
 mirror.ext4.xyz
 mirror.faizuladib.com
