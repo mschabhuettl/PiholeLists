@@ -7,9 +7,7 @@ arch-mirror.wtako.net
 arch.goober.cloud
 arch.hu.fo
 arch.jensgutermuth.de
-arch.jeweet.net
 arch.jsc.mx
-arch.juline.tech
 arch.kurdy.org
 arch.midov.pl
 arch.miningtcup.me
@@ -18,7 +16,6 @@ arch.mirror.far.fi
 arch.mirror.hyperbit.it
 arch.mirror.k0.ae
 arch.mirror.marcusspencer.us
-arch.mirror.square-r00t.net
 arch.mirror.winslow.cloud
 arch.mirrors.lavatech.top
 arch.mirrors.pair.com
@@ -51,7 +48,6 @@ archlinux.mailtunnel.eu
 archlinux.mirror.digitalpacific.com.au
 archlinux.mirror.garr.it
 archlinux.mirror.iphh.net
-archlinux.mirror.kangaroot.net
 archlinux.mirror.liquidtelecom.com
 archlinux.mirror.liteserver.nl
 archlinux.mirror.net.in
@@ -69,7 +65,6 @@ archlinux.thaller.ws
 archlinux.uib.no
 archlinux.uk.mirror.allworldit.com
 archlinux.za.mirror.allworldit.com
-archlinux.zepto.cloud
 archmirror.hbit.sztaki.hu
 archmirror1.octyl.net
 arlm.tyzoid.com
@@ -148,7 +143,6 @@ ftp.u-strasbg.fr
 ftp.uni-bayreuth.de
 ftp.uni-hannover.de
 ftp.uni-kl.de
-ftp.vectranet.pl
 ftp.wrz.de
 ftp.yzu.edu.tw
 ftpmirror.infania.net
@@ -181,8 +175,6 @@ m.lqy.me
 mala-arch-server.eu
 md.mirrors.hacktegic.com
 mir.archlinux.fr
-mirroir.labhouse.fr
-mirror-archlinux.webruimtehosting.nl
 mirror-hk.koddos.net
 mirror.0xem.ma
 mirror.23m.com
@@ -258,14 +250,10 @@ mirror.hakimi-soft.ir
 mirror.hashy0917.net
 mirror.hasphetica.win
 mirror.hnd.cl
-mirror.hodgepodge.dev
 mirror.host.ag
-mirror.hostart.az
 mirror.hoster.kz
 mirror.hosthink.net
 mirror.hostiko.network
-mirror.hostiran.ir
-mirror.hostup.org
 mirror.hugo-betrugo.de
 mirror.i3d.net
 mirror.ihost.md
@@ -282,7 +270,6 @@ mirror.its.dal.ca
 mirror.iusearchbtw.nl
 mirror.jingk.ai
 mirror.jonas-prz.be
-mirror.jordanrey.me
 mirror.juniorjpdj.pl
 mirror.kamtv.ru
 mirror.keiminem.com
@@ -290,7 +277,6 @@ mirror.kku.ac.th
 mirror.koddos.net
 mirror.kpfu.ru
 mirror.kumi.systems
-mirror.labkom.id
 mirror.lagoon.nc
 mirror.lastmikoi.net
 mirror.lcarilla.de
@@ -383,7 +369,6 @@ mirror.ufscar.br
 mirror.umd.edu
 mirror.undisclose.de
 mirror.ungleich.ch
-mirror.united-gameserver.de
 mirror.veriteknik.net.tr
 mirror.vinehost.net
 mirror.vpsfree.cz
@@ -399,7 +384,6 @@ mirror.xtom.com.hk
 mirror.yandex.ru
 mirror.yer.az
 mirror.yuki.net.uk
-mirror.yuri.so
 mirror.zackmyers.io
 mirror1.sl-chat.ru
 mirror1.sox.rs
@@ -470,7 +454,6 @@ mirrors.qlu.edu.cn
 mirrors.radwebhosting.com
 mirrors.reitarovskyi.tech
 mirrors.rit.edu
-mirrors.rutgers.edu
 mirrors.saswata.cc
 mirrors.shanghaitech.edu.cn
 mirrors.shr.cx
@@ -527,7 +510,6 @@ repo.ialab.dsu.edu
 repo.iut.ac.ir
 repo.jing.rocks
 repo.miserver.it.umich.edu
-repo.skni.umcs.pl
 repo.slithery.uk
 repository.su
 ridgewireless.mm.fcix.net
@@ -553,7 +535,6 @@ us-mnz.soulharsh007.dev
 us.arch.niranjan.co
 us.mirrors.cicku.me
 volico.mm.fcix.net
-vpsmurah.jagoanhosting.com
 wcbmedia.io
 web.sketserv.ru
 www.miraa.jp
