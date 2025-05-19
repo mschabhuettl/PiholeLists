@@ -167,10 +167,12 @@ london.mirror.pkgbuild.com
 losangeles.mirror.pkgbuild.com
 m.lqy.me
 mala-arch-server.eu
+md.arch.niranjan.co
 md.mirrors.hacktegic.com
 mir.archlinux.fr
 mirror-hk.koddos.net
 mirror.0xem.ma
+mirror.1ago.be
 mirror.23m.com
 mirror.2degrees.nz
 mirror.5i.fi
