@@ -64,6 +64,7 @@ archlinux.uib.no
 archlinux.uk.mirror.allworldit.com
 archlinux.za.mirror.allworldit.com
 archmirror.hbit.sztaki.hu
+archmirror.hogwarts.fr
 archmirror1.octyl.net
 arlm.tyzoid.com
 artfiles.org
@@ -244,6 +245,7 @@ mirror.hashy0917.net
 mirror.hasphetica.win
 mirror.hnd.cl
 mirror.host.ag
+mirror.hosthink.net
 mirror.hostiko.network
 mirror.hugo-betrugo.de
 mirror.i3d.net
