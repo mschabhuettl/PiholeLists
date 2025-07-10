@@ -335,6 +335,7 @@ mirror.srv.fail
 mirror.st2projects.com
 mirror.sunred.org
 mirror.t-home.mk
+mirror.tedwall.se
 mirror.telepoint.bg
 mirror.terrahost.no
 mirror.theash.xyz
