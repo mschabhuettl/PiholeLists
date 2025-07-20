@@ -23,6 +23,7 @@ arch.mithril.re
 arch.phinau.de
 arch.sakamoto.pl
 arch.softver.org.mk
+arch.sukuna.ovh
 arch.syxpi.fr
 arch.unixpeople.org
 arch.yhtez.xyz
@@ -473,6 +474,7 @@ plug-mirror.rcac.purdue.edu
 quantum-mirror.hu
 repo.br.ee
 repo.c48.uk
+repo.customcomputercare.com
 repo.greeklug.gr
 repo.hyron.dev
 repo.ialab.dsu.edu
