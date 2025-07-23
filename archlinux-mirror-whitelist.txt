@@ -20,6 +20,7 @@ arch.mirror.marcusspencer.us
 arch.mirror.winslow.cloud
 arch.mirrors.lavatech.top
 arch.mithril.re
+arch.owochle.app
 arch.phinau.de
 arch.sakamoto.pl
 arch.softver.org.mk
@@ -58,6 +59,7 @@ archlinux.mirrors.linux.ro
 archlinux.mirrors.ovh.net
 archlinux.mivzakim.net
 archlinux.nautile.nc
+archlinux.nic.cz
 archlinux.ourhome.kiwi
 archlinux.richard-neumann.de
 archlinux.thaller.ws
@@ -147,6 +149,7 @@ geo.mirror.pkgbuild.com
 glua.ua.pt
 gluttony.sin.cvut.cz
 gsl-syd.mm.fcix.net
+hk.mirrors.cicku.me
 hkg.mirror.rackspace.com
 iad.mirror.rackspace.com
 iad.mirrors.misaka.one
@@ -414,7 +417,6 @@ mirrors.nav.ro
 mirrors.nepalicloud.com
 mirrors.neusoft.edu.cn
 mirrors.nguyenhoang.cloud
-mirrors.nic.cz
 mirrors.nix.org.ua
 mirrors.niyawe.de
 mirrors.nju.edu.cn
@@ -434,6 +436,7 @@ mirrors.shr.cx
 mirrors.sjtug.sjtu.edu.cn
 mirrors.smeal.xyz
 mirrors.sonic.net
+mirrors.teamcloud.am
 mirrors.tuna.tsinghua.edu.cn
 mirrors.udenar.edu.co
 mirrors.ukfast.co.uk
@@ -500,6 +503,7 @@ theswissbay.ch
 tr.arch.niranjan.co
 tux.rainside.sk
 tw.mirrors.cicku.me
+uk.repo.c48.uk
 upstream-1.pablonara.com
 us-mnz.soulharsh007.dev
 us.arch.niranjan.co
