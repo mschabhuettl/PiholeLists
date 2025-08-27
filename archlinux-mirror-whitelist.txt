@@ -7,11 +7,13 @@ arch-mirror.brightlight.today
 arch-mirror.wtako.net
 arch.goober.cloud
 arch.hu.fo
+arch.hugeblank.dev
 arch.jensgutermuth.de
 arch.jsc.mx
 arch.kurdy.org
 arch.midov.pl
 arch.miningtcup.me
+arch.mirror.cloud.thatcyberlynx.de
 arch.mirror.constant.com
 arch.mirror.far.fi
 arch.mirror.hyperbit.it
@@ -38,7 +40,6 @@ archlinux.datagr.am
 archlinux.doridian.net
 archlinux.gay
 archlinux.grena.ge
-archlinux.homeinfo.de
 archlinux.interhost.co.il
 archlinux.ip-connect.vn.ua
 archlinux.iskon.hr
@@ -116,6 +117,7 @@ ftp.fi.muni.cz
 ftp.gwdg.de
 ftp.halifax.rwth-aachen.de
 ftp.hosteurope.de
+ftp.hrts.kr
 ftp.icm.edu.pl
 ftp.iinet.net.au
 ftp.jaist.ac.jp
@@ -191,6 +193,7 @@ mirror.albony.in
 mirror.alwyzon.net
 mirror.ams1.nl.leaseweb.net
 mirror.anquan.cl
+mirror.arch-linux.ch
 mirror.archlinux.ikoula.com
 mirror.archlinux.no
 mirror.archlinux.tw
@@ -248,6 +251,7 @@ mirror.hashy0917.net
 mirror.hasphetica.win
 mirror.hb9hil.org
 mirror.hnd.cl
+mirror.hntr.pp.ua
 mirror.host.ag
 mirror.hosthink.net
 mirror.hostiko.network
@@ -272,6 +276,7 @@ mirror.keiminem.com
 mirror.kku.ac.th
 mirror.koddos.net
 mirror.kpfu.ru
+mirror.krfoss.org
 mirror.kumi.systems
 mirror.lagoon.nc
 mirror.lastmikoi.net
@@ -282,6 +287,7 @@ mirror.lnx.sk
 mirror.lyrahosting.com
 mirror.lzu.edu.cn
 mirror.maa.albony.in
+mirror.maeen.sa
 mirror.mangohost.net
 mirror.math.princeton.edu
 mirror.meowsmp.net
@@ -345,6 +351,7 @@ mirror.terrahost.no
 mirror.theash.xyz
 mirror.thekinrar.fr
 mirror.theo546.fr
+mirror.thereisno.page
 mirror.tiguinet.net
 mirror.timtal.com.tr
 mirror.trap.moe
@@ -410,6 +417,7 @@ mirrors.kernel.org
 mirrors.lahansons.com
 mirrors.liquidweb.com
 mirrors.lug.mtu.edu
+mirrors.lyno.cloud
 mirrors.melbourne.co.uk
 mirrors.mit.edu
 mirrors.n-ix.net
@@ -428,7 +436,7 @@ mirrors.pidginhost.com
 mirrors.powernet.com.ru
 mirrors.purring.online
 mirrors.qlu.edu.cn
-mirrors.reitarovskyi.tech
+mirrors.reitarovskyi.com.ua
 mirrors.rit.edu
 mirrors.saswata.cc
 mirrors.shanghaitech.edu.cn
@@ -471,7 +479,6 @@ os.codefionn.eu
 ossmirror.mycloud.services
 packages.oth-regensburg.de
 pkg.adfinis-on-exoscale.ch
-pkg.adfinis.com
 pkg.fef.moe
 plug-mirror.rcac.purdue.edu
 quantum-mirror.hu
@@ -482,7 +489,6 @@ repo.greeklug.gr
 repo.hyron.dev
 repo.ialab.dsu.edu
 repo.iut.ac.ir
-repo.jing.rocks
 repo.miserver.it.umich.edu
 repo.slithery.uk
 repository.su
