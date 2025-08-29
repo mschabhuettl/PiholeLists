@@ -58,7 +58,6 @@ archlinux.mirror.server24.net
 archlinux.mirror.wearetriple.com
 archlinux.mirrors.linux.ro
 archlinux.mirrors.ovh.net
-archlinux.mivzakim.net
 archlinux.nautile.nc
 archlinux.nic.cz
 archlinux.ourhome.kiwi
@@ -173,7 +172,6 @@ london.mirror.pkgbuild.com
 losangeles.mirror.pkgbuild.com
 m.lqy.me
 mala-arch-server.eu
-md.arch.niranjan.co
 md.mirrors.hacktegic.com
 mir.archlinux.fr
 mirror-hk.koddos.net
@@ -417,7 +415,6 @@ mirrors.kernel.org
 mirrors.lahansons.com
 mirrors.liquidweb.com
 mirrors.lug.mtu.edu
-mirrors.lyno.cloud
 mirrors.melbourne.co.uk
 mirrors.mit.edu
 mirrors.n-ix.net
@@ -425,7 +422,6 @@ mirrors.nav.ro
 mirrors.nepalicloud.com
 mirrors.neusoft.edu.cn
 mirrors.nguyenhoang.cloud
-mirrors.nix.org.ua
 mirrors.niyawe.de
 mirrors.nju.edu.cn
 mirrors.nxtgen.com
