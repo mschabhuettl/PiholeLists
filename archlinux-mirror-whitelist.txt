@@ -500,6 +500,7 @@ sg.arch.niranjan.co
 sg.mirrors.cicku.me
 singapore.mirror.pkgbuild.com
 southfront.mm.fcix.net
+stygian.failzero.net
 super.quantum-mirror.hu
 syd.mirror.rackspace.com
 sydney.mirror.pkgbuild.com
@@ -513,6 +514,7 @@ upstream-1.pablonara.com
 us-mnz.soulharsh007.dev
 us.arch.niranjan.co
 us.mirrors.cicku.me
+vladivostokst.ru
 volico.mm.fcix.net
 wcbmedia.io
 web.sketserv.ru
