@@ -1,6 +1,5 @@
 # pihole-updatelists - ARCHLINUX-MIRROR-WHITELIST
 al.arch.niranjan.co
-america.mirror.pkgbuild.com
 ams.nl.mirrors.bjg.at
 arch-lux.spirex.me
 arch-mirror.brightlight.today
@@ -71,7 +70,6 @@ archmirror.hogwarts.fr
 archmirror1.octyl.net
 arlm.tyzoid.com
 artfiles.org
-asia.mirror.pkgbuild.com
 at-vie.soulharsh007.dev
 at.arch.mirror.kescher.at
 at.arch.niranjan.co
