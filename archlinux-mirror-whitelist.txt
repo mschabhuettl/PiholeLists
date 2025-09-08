@@ -263,6 +263,7 @@ mirror.internode.on.net
 mirror.ipb.de
 mirror.is.co.za
 mirror.isoc.org.il
+mirror.it-privat.dk
 mirror.it4i.cz
 mirror.its-tps.fr
 mirror.its.dal.ca
