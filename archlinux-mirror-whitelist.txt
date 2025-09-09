@@ -81,6 +81,7 @@ berlin.mirror.pkgbuild.com
 br.mirrors.cicku.me
 ca.mirrors.cicku.me
 cdnmirror.com
+ch.mirror.shiro.lol
 ch.mirrors.cicku.me
 codingflyboy.mm.fcix.net
 coresite.mm.fcix.net
