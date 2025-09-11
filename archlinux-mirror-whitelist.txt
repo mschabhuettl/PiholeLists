@@ -195,6 +195,7 @@ mirror.anquan.cl
 mirror.arch-linux.ch
 mirror.archlinux.ikoula.com
 mirror.archlinux.no
+mirror.archlinux.si
 mirror.archlinux.tw
 mirror.aria-on-the-planet.es
 mirror.arizona.edu
