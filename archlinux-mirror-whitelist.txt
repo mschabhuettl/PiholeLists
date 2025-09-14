@@ -234,7 +234,6 @@ mirror.easyname.at
 mirror.efect.ro
 mirror.es.cdn-perfprod.com
 mirror.ette.biz
-mirror.faizuladib.com
 mirror.fcix.net
 mirror.fossable.org
 mirror.fra10.de.leaseweb.net
@@ -494,7 +493,6 @@ repo.iut.ac.ir
 repo.miserver.it.umich.edu
 repo.slithery.uk
 repository.su
-ridgewireless.mm.fcix.net
 ro.arch.niranjan.co
 ro.mirror.flokinet.net
 ru.mirrors.cicku.me
