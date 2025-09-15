@@ -34,7 +34,6 @@ archlinux-mirror.cloud.mu
 archlinux.c3sl.ufpr.br
 archlinux.ccns.ncku.edu.tw
 archlinux.cs.nycu.edu.tw
-archlinux.cu.be
 archlinux.datagr.am
 archlinux.doridian.net
 archlinux.gay
@@ -188,7 +187,6 @@ mirror.accum.se
 mirror.adectra.com
 mirror.akane.network
 mirror.aktkn.sg
-mirror.albony.in
 mirror.alwyzon.net
 mirror.ams1.nl.leaseweb.net
 mirror.anquan.cl
