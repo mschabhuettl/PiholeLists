@@ -372,6 +372,7 @@ mirror.worldhotspot.org
 mirror.wormhole.eu
 mirror.wtnet.de
 mirror.wuki.li
+mirror.xenedium.com
 mirror.xenyth.net
 mirror.xeonbd.com
 mirror.xtom.com.hk
