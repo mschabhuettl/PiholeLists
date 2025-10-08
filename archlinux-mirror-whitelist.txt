@@ -45,6 +45,7 @@ archlinux.kushwanthreddy.com
 archlinux.lan.brgn.ch
 archlinux.lysakermoen.com
 archlinux.mailtunnel.eu
+archlinux.mirror-services.net
 archlinux.mirror.digitalpacific.com.au
 archlinux.mirror.garr.it
 archlinux.mirror.iphh.net
@@ -282,7 +283,9 @@ mirror.lastmikoi.net
 mirror.lcarilla.de
 mirror.leitecastro.com
 mirror.limda.net
+mirror.linux.ec
 mirror.lnx.sk
+mirror.lolcow.failzero.net
 mirror.lyrahosting.com
 mirror.lzu.edu.cn
 mirror.maa.albony.in
