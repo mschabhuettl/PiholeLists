@@ -110,6 +110,7 @@ ftp.agdsn.de
 ftp.byfly.by
 ftp.cc.uoc.gr
 ftp.ek-cer.hu
+ftp.energotel.sk
 ftp.fau.de
 ftp.fi.muni.cz
 ftp.gwdg.de
@@ -122,6 +123,7 @@ ftp.jaist.ac.jp
 ftp.kaist.ac.kr
 ftp.lanet.kr
 ftp.linux.cz
+ftp.linux.edu.lv
 ftp.linux.org.tr
 ftp.ludd.ltu.se
 ftp.lysator.liu.se
@@ -225,6 +227,7 @@ mirror.datacenter.by
 mirror.dc.uz
 mirror.del2.albony.in
 mirror.digitalnova.at
+mirror.distly.kr
 mirror.ditatompel.com
 mirror.dkm.cz
 mirror.dogado.de
@@ -254,7 +257,6 @@ mirror.host.ag
 mirror.hosthink.net
 mirror.hostiko.network
 mirror.hugo-betrugo.de
-mirror.i3d.net
 mirror.ihost.md
 mirror.informatik.tu-freiberg.de
 mirror.init7.net
@@ -273,7 +275,6 @@ mirror.juniorjpdj.pl
 mirror.kamtv.ru
 mirror.keiminem.com
 mirror.kku.ac.th
-mirror.kmw21.xyz
 mirror.koddos.net
 mirror.kpfu.ru
 mirror.krfoss.org
@@ -349,6 +350,7 @@ mirror.srv.fail
 mirror.st2projects.com
 mirror.sunred.org
 mirror.t-home.mk
+mirror.techlabs.co.kr
 mirror.tedwall.se
 mirror.telepoint.bg
 mirror.terrahost.no
@@ -375,7 +377,6 @@ mirror.worldhotspot.org
 mirror.wormhole.eu
 mirror.wtnet.de
 mirror.wuki.li
-mirror.xenedium.com
 mirror.xenyth.net
 mirror.xeonbd.com
 mirror.xtom.com.hk
@@ -466,7 +467,6 @@ mirrors.xtom.nl
 mirrors.zju.edu.cn
 mnvoip.mm.fcix.net
 muug.ca
-nl.arch.niranjan.co
 nl.mirror.flokinet.net
 nl.mirrors.cicku.me
 nnenix.mm.fcix.net
