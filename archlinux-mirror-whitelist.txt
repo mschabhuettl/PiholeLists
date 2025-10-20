@@ -9,7 +9,6 @@ arch.hu.fo
 arch.hugeblank.dev
 arch.jensgutermuth.de
 arch.jsc.mx
-arch.kurdy.org
 arch.midov.pl
 arch.miningtcup.me
 arch.mirror.cloud.thatcyberlynx.de
@@ -286,7 +285,6 @@ mirror.leitecastro.com
 mirror.limda.net
 mirror.linux.ec
 mirror.lnx.sk
-mirror.lolcow.failzero.net
 mirror.lyrahosting.com
 mirror.lzu.edu.cn
 mirror.maa.albony.in
@@ -387,6 +385,7 @@ mirror.zackmyers.io
 mirror1.sl-chat.ru
 mirror1.sox.rs
 mirror2.evolution-host.com
+mirror2.keiminem.com
 mirror2.sl-chat.ru
 mirror3.sl-chat.ru
 mirrors.163.com
