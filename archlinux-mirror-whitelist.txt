@@ -247,7 +247,6 @@ mirror.givebytes.net
 mirror.group.one
 mirror.guillaumea.fr
 mirror.hafeezh.com
-mirror.hashy0917.net
 mirror.hasphetica.win
 mirror.hb9hil.org
 mirror.hemino.net
@@ -302,10 +301,11 @@ mirror.mirohost.net
 mirror.mobinhost.com
 mirror.moson.org
 mirror.mra.sh
+mirror.mrleong.net
+mirror.murmellow.lol
 mirror.netcologne.de
 mirror.netweaver.uk
 mirror.neuf.no
-mirror.nishi.network
 mirror.nl.cdn-perfprod.com
 mirror.nucc.tr
 mirror.nw-sys.ru
@@ -383,12 +383,9 @@ mirror.yandex.ru
 mirror.yer.az
 mirror.yuki.net.uk
 mirror.zackmyers.io
-mirror1.sl-chat.ru
 mirror1.sox.rs
 mirror2.evolution-host.com
 mirror2.keiminem.com
-mirror2.sl-chat.ru
-mirror3.sl-chat.ru
 mirrors.163.com
 mirrors.abhy.me
 mirrors.acm.wpi.edu
