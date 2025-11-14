@@ -89,3 +89,4 @@ cdn.awsde0.fds.api.mi-img.com
 polyfill.io
 userlocation.googleapis.com
 fpt.live.com
+krebsonsecurity.com
