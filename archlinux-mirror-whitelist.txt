@@ -510,6 +510,7 @@ tr.arch.niranjan.co
 tux.rainside.sk
 tw.mirrors.cicku.me
 uk.repo.c48.uk
+umea.mirror.pkgbuild.com
 upstream-1.pablonara.com
 us-mnz.soulharsh007.dev
 us.arch.niranjan.co
