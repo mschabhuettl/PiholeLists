@@ -219,6 +219,7 @@ mirror.clarkson.edu
 mirror.clientvps.com
 mirror.cmt.de
 mirror.colonelhosting.com
+mirror.cosmiclinux.com
 mirror.cov.ukservers.com
 mirror.cpsc.ucalgary.ca
 mirror.cs.odu.edu
@@ -375,6 +376,7 @@ mirror.ufro.cl
 mirror.ufscar.br
 mirror.umd.edu
 mirror.ungleich.ch
+mirror.us.cdn-perfprod.com
 mirror.vpsfree.cz
 mirror.vtti.vt.edu
 mirror.wane.kr
@@ -471,11 +473,11 @@ mirrors.xtom.nl
 mirrors.zju.edu.cn
 mnvoip.mm.fcix.net
 muug.ca
+nl.arch.niranjan.co
 nl.mirror.flokinet.net
 nl.mirrors.cicku.me
 nnenix.mm.fcix.net
 nocix.mm.fcix.net
-nova.quantum-mirror.hu
 nox.panibrez.com
 ny.us.mirrors.bjg.at
 nz.arch.niranjan.co
@@ -488,7 +490,6 @@ packages.oth-regensburg.de
 pkg.adfinis-on-exoscale.ch
 pkg.fef.moe
 plug-mirror.rcac.purdue.edu
-quantum-mirror.hu
 repo.br.ee
 repo.c48.uk
 repo.customcomputercare.com
@@ -508,7 +509,6 @@ sg.mirrors.cicku.me
 singapore.mirror.pkgbuild.com
 southfront.mm.fcix.net
 stygian.failzero.net
-super.quantum-mirror.hu
 syd.mirror.rackspace.com
 taipei.mirror.pkgbuild.com
 theswissbay.ch
