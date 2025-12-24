@@ -99,7 +99,6 @@ edgeuno-bog2.mm.fcix.net
 elda.asgardius.company
 elmirror.cl
 es.mirrors.cicku.me
-europe.mirror.pkgbuild.com
 f.matthieul.dev
 fastly.mirror.pkgbuild.com
 fi.arch.niranjan.co
