@@ -176,6 +176,7 @@ london.mirror.pkgbuild.com
 losangeles.mirror.pkgbuild.com
 m.lqy.me
 mala-arch-server.eu
+md.arch.niranjan.co
 md.mirrors.hacktegic.com
 mir.archlinux.fr
 mirror-de-1.cutie.dating
@@ -478,7 +479,6 @@ nl.mirrors.cicku.me
 nnenix.mm.fcix.net
 nocix.mm.fcix.net
 nox.panibrez.com
-ny.us.mirrors.bjg.at
 nz.arch.niranjan.co
 ohioix.mm.fcix.net
 opencolo.mm.fcix.net
