@@ -336,7 +336,6 @@ mirror.rain.ne.jp
 mirror.raiolanetworks.com
 mirror.repository.id
 mirror.retropc.se
-mirror.ro.cdn-perfprod.com
 mirror.rznet.fr
 mirror.sabay.com.kh
 mirror.sahil.world
@@ -392,6 +391,7 @@ mirror.yandex.ru
 mirror.yer.az
 mirror.yuki.net.uk
 mirror.zackmyers.io
+mirror.zyner.org
 mirror1.sox.rs
 mirror2.evolution-host.com
 mirror2.keiminem.com
