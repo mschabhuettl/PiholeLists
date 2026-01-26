@@ -429,6 +429,7 @@ mirrors.jxust.edu.cn
 mirrors.kernel.org
 mirrors.lahansons.com
 mirrors.liquidweb.com
+mirrors.logal.dev
 mirrors.lug.mtu.edu
 mirrors.melbourne.co.uk
 mirrors.mit.edu
