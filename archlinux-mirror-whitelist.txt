@@ -156,6 +156,7 @@ gluttony.sin.cvut.cz
 gsl-syd.mm.fcix.net
 hk.mirrors.cicku.me
 hkg.mirror.rackspace.com
+hu.mirror.frigyes.dev
 iad.mirror.rackspace.com
 iad.mirrors.misaka.one
 in-mirror.garudalinux.org
