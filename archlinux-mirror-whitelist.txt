@@ -78,6 +78,7 @@ au.arch.niranjan.co
 au.mirrors.cicku.me
 berlin.mirror.pkgbuild.com
 br.mirrors.cicku.me
+ca.mirror.cx
 ca.mirrors.cicku.me
 cdnmirror.com
 ch.mirror.shiro.lol
@@ -122,6 +123,7 @@ ftp.hosteurope.de
 ftp.hrts.kr
 ftp.icm.edu.pl
 ftp.iinet.net.au
+ftp.io.kr
 ftp.jaist.ac.jp
 ftp.kaist.ac.kr
 ftp.lanet.kr
@@ -148,6 +150,7 @@ ftp.u-strasbg.fr
 ftp.uni-bayreuth.de
 ftp.uni-hannover.de
 ftp.uni-kl.de
+ftp.yz.yamagata-u.ac.jp
 ftpmirror.infania.net
 gb.mirrors.cicku.me
 geo.mirror.pkgbuild.com
@@ -195,6 +198,7 @@ mirror.accum.se
 mirror.adectra.com
 mirror.akane.network
 mirror.aktkn.sg
+mirror.alldaydev.com
 mirror.alwyzon.net
 mirror.ams1.nl.leaseweb.net
 mirror.anquan.cl
@@ -477,9 +481,11 @@ mirrors.zju.edu.cn
 mnvoip.mm.fcix.net
 muug.ca
 nl.arch.niranjan.co
+nl.mirror.cx
 nl.mirror.flokinet.net
 nl.mirrors.cicku.me
 nnenix.mm.fcix.net
+no.mirror.cx
 nocix.mm.fcix.net
 nox.panibrez.com
 nz.arch.niranjan.co
@@ -523,7 +529,6 @@ upstream-1.pablonara.com
 us-mnz.soulharsh007.dev
 us.arch.niranjan.co
 us.mirrors.cicku.me
-vladivostokst.ru
 volico.mm.fcix.net
 wcbmedia.io
 web.sketserv.ru
