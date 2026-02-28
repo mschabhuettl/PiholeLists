@@ -91,3 +91,5 @@ userlocation.googleapis.com
 fpt.live.com
 krebsonsecurity.com
 agar.io
+razerid-assets.razerzone.com.gccdn.cn
+fs.razersynapse.com.gccdn.cn
