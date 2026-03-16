@@ -61,6 +61,7 @@ archlinux.nautile.nc
 archlinux.nic.cz
 archlinux.ourhome.kiwi
 archlinux.richard-neumann.de
+archlinux.roshak.xyz
 archlinux.thaller.ws
 archlinux.uib.no
 archlinux.uk.mirror.allworldit.com
@@ -199,6 +200,7 @@ mirror.adectra.com
 mirror.akane.network
 mirror.aktkn.sg
 mirror.alldaydev.com
+mirror.allthingslinux.org
 mirror.alwyzon.net
 mirror.ams1.nl.leaseweb.net
 mirror.anquan.cl
@@ -235,6 +237,7 @@ mirror.cspacehostings.com
 mirror.cyberbits.asia
 mirror.cyberbits.eu
 mirror.datacenter.by
+mirror.dawn.org.in
 mirror.dc.uz
 mirror.del2.albony.in
 mirror.digitalnova.at
@@ -400,6 +403,7 @@ mirror.zackmyers.io
 mirror.zyner.org
 mirror1.sox.rs
 mirror2.evolution-host.com
+mirror2.givebytes.net
 mirror2.keiminem.com
 mirrors.163.com
 mirrors.abhy.me
@@ -529,6 +533,7 @@ upstream-1.pablonara.com
 us-mnz.soulharsh007.dev
 us.arch.niranjan.co
 us.mirrors.cicku.me
+vlst.su
 volico.mm.fcix.net
 wcbmedia.io
 web.sketserv.ru
