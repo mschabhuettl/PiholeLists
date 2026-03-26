@@ -218,8 +218,10 @@ mirror.bakertelekom.fr
 mirror.barata.pt
 mirror.bethselamin.de
 mirror.bizflycloud.vn
+mirror.bom.kat.cx
 mirror.bouwhuis.network
 mirror.braindrainlan.nu
+mirror.cachy-arch.ru
 mirror.cedia.org.ec
 mirror.citrahost.com
 mirror.cj2.nl
