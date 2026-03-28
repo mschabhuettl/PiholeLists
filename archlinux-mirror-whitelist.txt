@@ -529,6 +529,7 @@ theswissbay.ch
 tr.arch.niranjan.co
 tux.rainside.sk
 tw.mirrors.cicku.me
+uk.arch.niranjan.co
 uk.repo.c48.uk
 umea.mirror.pkgbuild.com
 upstream-1.pablonara.com
