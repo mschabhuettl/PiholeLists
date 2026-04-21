@@ -493,7 +493,6 @@ nl.mirrors.cicku.me
 nnenix.mm.fcix.net
 no.mirror.cx
 nocix.mm.fcix.net
-nox.panibrez.com
 nz.arch.niranjan.co
 ohioix.mm.fcix.net
 opencolo.mm.fcix.net
