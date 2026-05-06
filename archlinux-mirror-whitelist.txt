@@ -96,6 +96,7 @@ dfw.mirror.rackspace.com
 dist-mirror.fem.tu-ilmenau.de
 distro.ibiblio.org
 distrohub.kyiv.ua
+dornogal.falcao.org
 download.nus.edu.sg
 edgeuno-bog2.mm.fcix.net
 elda.asgardius.company
@@ -200,7 +201,6 @@ mirror.adectra.com
 mirror.akane.network
 mirror.aktkn.sg
 mirror.alldaydev.com
-mirror.allthingslinux.org
 mirror.alwyzon.net
 mirror.ams1.nl.leaseweb.net
 mirror.anquan.cl
@@ -252,8 +252,10 @@ mirror.easyname.at
 mirror.efect.ro
 mirror.es.cdn-perfprod.com
 mirror.ette.biz
+mirror.falcao.org
 mirror.fcix.net
 mirror.fossable.org
+mirror.fr.cdn-perfprod.com
 mirror.fra10.de.leaseweb.net
 mirror.franscorack.com
 mirror.freedif.org
@@ -289,6 +291,7 @@ mirror.jonas-prz.be
 mirror.juniorjpdj.pl
 mirror.kamtv.ru
 mirror.keiminem.com
+mirror.khoinet.dpdns.org
 mirror.kku.ac.th
 mirror.koddos.net
 mirror.kpfu.ru
@@ -300,7 +303,9 @@ mirror.lcarilla.de
 mirror.leitecastro.com
 mirror.limda.net
 mirror.linux.ec
+mirror.linxhost.ru
 mirror.lnx.sk
+mirror.lu.stratonexus.net
 mirror.lyrahosting.com
 mirror.lzu.edu.cn
 mirror.maa.albony.in
@@ -391,7 +396,6 @@ mirror.vpsfree.cz
 mirror.vtti.vt.edu
 mirror.wane.kr
 mirror.wdc1.us.leaseweb.net
-mirror.worldhotspot.org
 mirror.wormhole.eu
 mirror.wtnet.de
 mirror.wuki.li
@@ -537,6 +541,7 @@ us.arch.niranjan.co
 us.mirrors.cicku.me
 vlst.su
 volico.mm.fcix.net
+wan.metrosg.ru
 wcbmedia.io
 web.sketserv.ru
 www.miraa.jp
