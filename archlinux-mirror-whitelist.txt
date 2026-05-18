@@ -9,6 +9,7 @@ arch.hu.fo
 arch.hugeblank.dev
 arch.jensgutermuth.de
 arch.jsc.mx
+arch.ljkx.org
 arch.midov.pl
 arch.miningtcup.me
 arch.mirror.cloud.thatcyberlynx.de
@@ -266,6 +267,7 @@ mirror.givebytes.net
 mirror.group.one
 mirror.guillaumea.fr
 mirror.hafeezh.com
+mirror.hashy0917.net
 mirror.hasphetica.win
 mirror.hb9hil.org
 mirror.hemino.net
@@ -377,7 +379,6 @@ mirror.terrahost.no
 mirror.theash.xyz
 mirror.thekinrar.fr
 mirror.theo546.fr
-mirror.thereisno.page
 mirror.tiguinet.net
 mirror.timtal.com.tr
 mirror.trap.moe
@@ -385,6 +386,7 @@ mirror.trapmaid.org
 mirror.truenetwork.ru
 mirror.tux.si
 mirror.twds.com.tw
+mirror.tzulo.com
 mirror.ubrco.de
 mirror.ufam.edu.br
 mirror.ufro.cl
