@@ -82,6 +82,7 @@ berlin.mirror.pkgbuild.com
 br.mirrors.cicku.me
 ca.mirror.cx
 ca.mirrors.cicku.me
+ca.mirrors.mk
 cdnmirror.com
 ch.mirror.shiro.lol
 ch.mirrors.cicku.me
@@ -92,6 +93,7 @@ de.arch.mirror.kescher.at
 de.arch.niranjan.co
 de.mirror.shibe.party
 de.mirrors.cicku.me
+de.mirrors.mk
 de.repo.c48.uk
 dfw.mirror.rackspace.com
 dist-mirror.fem.tu-ilmenau.de
@@ -308,6 +310,7 @@ mirror.linux.ec
 mirror.linxhost.ru
 mirror.lnx.sk
 mirror.lu.stratonexus.net
+mirror.lug.umbc.edu
 mirror.lyrahosting.com
 mirror.lzu.edu.cn
 mirror.maa.albony.in
@@ -341,10 +344,10 @@ mirror.ourhost.az
 mirror.pagenotfound.de
 mirror.papua.go.id
 mirror.peeres-telecom.fr
+mirror.pileus.kr
 mirror.pilotfiber.com
 mirror.pit.teraswitch.com
 mirror.pmf.kg.ac.rs
-mirror.przekichane.pl
 mirror.ps.kz
 mirror.pseudoform.org
 mirror.puzzle.ch
@@ -429,6 +432,7 @@ mirrors.cqu.edu.cn
 mirrors.dotsrc.org
 mirrors.eric.ovh
 mirrors.evoluso.com
+mirrors.foxmire.space
 mirrors.gandi.net
 mirrors.gigenet.com
 mirrors.hit.edu.cn
@@ -490,12 +494,14 @@ mirrors.xtom.de
 mirrors.xtom.ee
 mirrors.xtom.nl
 mirrors.zju.edu.cn
+mk.mirrors.mk
 mnvoip.mm.fcix.net
 muug.ca
 nl.arch.niranjan.co
 nl.mirror.cx
 nl.mirror.flokinet.net
 nl.mirrors.cicku.me
+nl.mirrors.mk
 nnenix.mm.fcix.net
 no.mirror.cx
 nocix.mm.fcix.net
@@ -541,6 +547,7 @@ upstream-1.pablonara.com
 us-mnz.soulharsh007.dev
 us.arch.niranjan.co
 us.mirrors.cicku.me
+us.mirrors.mk
 vlst.su
 volico.mm.fcix.net
 wan.metrosg.ru
