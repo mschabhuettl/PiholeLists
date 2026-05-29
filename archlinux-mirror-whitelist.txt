@@ -40,6 +40,7 @@ archlinux.grena.ge
 archlinux.interhost.co.il
 archlinux.ip-connect.vn.ua
 archlinux.iskon.hr
+archlinux.juancho.com.ar
 archlinux.koyanet.lv
 archlinux.kushwanthreddy.com
 archlinux.lan.brgn.ch
@@ -359,6 +360,7 @@ mirror.repository.id
 mirror.retropc.se
 mirror.rznet.fr
 mirror.sabay.com.kh
+mirror.safiabidi.com
 mirror.sahil.world
 mirror.scd31.com
 mirror.selfnet.de
