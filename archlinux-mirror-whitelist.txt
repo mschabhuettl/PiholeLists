@@ -30,6 +30,7 @@ arch.unixpeople.org
 arch.yhtez.xyz
 arch.yourlabs.org
 archlinux-mirror.cloud.mu
+archlinux-mirror.techticity.com
 archlinux.c3sl.ufpr.br
 archlinux.ccns.ncku.edu.tw
 archlinux.cs.nycu.edu.tw
@@ -42,13 +43,13 @@ archlinux.ip-connect.vn.ua
 archlinux.iskon.hr
 archlinux.juancho.com.ar
 archlinux.koyanet.lv
-archlinux.kushwanthreddy.com
 archlinux.lan.brgn.ch
 archlinux.lysakermoen.com
 archlinux.mailtunnel.eu
 archlinux.mirror-services.net
 archlinux.mirror.digitalpacific.com.au
 archlinux.mirror.garr.it
+archlinux.mirror.ikr.me
 archlinux.mirror.iphh.net
 archlinux.mirror.liquidtelecom.com
 archlinux.mirror.liteserver.nl
@@ -334,7 +335,6 @@ mirror.netcologne.de
 mirror.netweaver.uk
 mirror.neuf.no
 mirror.nl.cdn-perfprod.com
-mirror.nucc.tr
 mirror.nw-sys.ru
 mirror.nyaa.vc
 mirror.nyist.edu.cn
