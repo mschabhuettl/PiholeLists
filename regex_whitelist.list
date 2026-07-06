@@ -14,3 +14,8 @@
 (\.|^)cloudflare\.com$
 (\.|^)googleapis\.com$
 (\.|^)truenas\.com$
+(\.|^)huggingface\.co$
+(\.|^)aliexpress\.com$
+(\.|^)cdninstagram\.com$
+(\.|^)shopify\.com$
+(\.|^)bet-at-home\.com$
