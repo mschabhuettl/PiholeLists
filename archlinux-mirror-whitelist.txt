@@ -4,6 +4,7 @@ ams.nl.mirrors.bjg.at
 arch-lux.spirex.me
 arch-mirror.brightlight.today
 arch-mirror.wtako.net
+arch.alhp.dev
 arch.goober.cloud
 arch.hu.fo
 arch.hugeblank.dev
@@ -99,8 +100,6 @@ dist-mirror.fem.tu-ilmenau.de
 distro.ibiblio.org
 distrohub.kyiv.ua
 dornogal.falcao.org
-download.nus.edu.sg
-edgeuno-bog2.mm.fcix.net
 elda.asgardius.company
 elmirror.cl
 es.mirrors.cicku.me
@@ -183,7 +182,6 @@ losangeles.mirror.pkgbuild.com
 m.lqy.me
 mala-arch-server.eu
 md.arch.niranjan.co
-md.mirrors.hacktegic.com
 mir.archlinux.fr
 mirror-de-1.cutie.dating
 mirror-hk.koddos.net
@@ -243,17 +241,13 @@ mirror.dc.uz
 mirror.del2.albony.in
 mirror.digitalnova.at
 mirror.distly.kr
-mirror.ditatompel.com
 mirror.diyarciftci.xyz
-mirror.dkm.cz
 mirror.dogado.de
-mirror.easyname.at
 mirror.efect.ro
 mirror.es.cdn-perfprod.com
 mirror.falcao.org
 mirror.famaserver.com
 mirror.fcix.net
-mirror.fossable.org
 mirror.fr.cdn-perfprod.com
 mirror.fra10.de.leaseweb.net
 mirror.franscorack.com
@@ -266,7 +260,6 @@ mirror.group.one
 mirror.guillaumea.fr
 mirror.hafeezh.com
 mirror.hashy0917.net
-mirror.hasphetica.win
 mirror.hb9hil.org
 mirror.hemino.net
 mirror.hnd.cl
@@ -285,7 +278,6 @@ mirror.it4i.cz
 mirror.its-tps.fr
 mirror.iusearchbtw.nl
 mirror.jingk.ai
-mirror.jonas-prz.be
 mirror.juniorjpdj.pl
 mirror.kalem.dev
 mirror.kamtv.ru
@@ -299,7 +291,6 @@ mirror.kumi.systems
 mirror.lagoon.nc
 mirror.lastmikoi.net
 mirror.lcarilla.de
-mirror.leitecastro.com
 mirror.limda.net
 mirror.linux.ec
 mirror.linxhost.ru
@@ -323,7 +314,6 @@ mirror.mobinhost.com
 mirror.moson.org
 mirror.mra.sh
 mirror.mrleong.net
-mirror.murmellow.lol
 mirror.netcologne.de
 mirror.netweaver.uk
 mirror.neuf.no
@@ -376,7 +366,6 @@ mirror.terrahost.no
 mirror.theash.xyz
 mirror.thekinrar.fr
 mirror.theo546.fr
-mirror.tiguinet.net
 mirror.timtal.com.tr
 mirror.trap.moe
 mirror.trapmaid.org
@@ -469,7 +458,6 @@ mirrors.saswata.cc
 mirrors.shanghaitech.edu.cn
 mirrors.shr.cx
 mirrors.sjtug.sjtu.edu.cn
-mirrors.smeal.xyz
 mirrors.sonic.net
 mirrors.teamcloud.am
 mirrors.tuna.tsinghua.edu.cn
@@ -490,7 +478,6 @@ mirrors.xtom.ee
 mirrors.xtom.nl
 mirrors.zju.edu.cn
 mk.mirrors.mk
-mnvoip.mm.fcix.net
 muug.ca
 nl.arch.niranjan.co
 nl.mirror.cx
@@ -517,7 +504,6 @@ repo.hyron.dev
 repo.ialab.dsu.edu
 repo.iut.ac.ir
 repo.miserver.it.umich.edu
-repo.slithery.uk
 repository.su
 ro.arch.niranjan.co
 ro.mirror.flokinet.net
@@ -527,7 +513,6 @@ sg.arch.niranjan.co
 sg.mirrors.cicku.me
 singapore.mirror.pkgbuild.com
 southfront.mm.fcix.net
-stygian.failzero.net
 syd.mirror.rackspace.com
 taipei.mirror.pkgbuild.com
 theswissbay.ch
