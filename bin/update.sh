@@ -1,31 +1,33 @@
 #!/bin/bash
+set -Eeuo pipefail
 
-# check for root
+trap 'printf "Error on line %s. Update aborted.\n" "$LINENO" >&2' ERR
+
 if [[ $EUID -ne 0 ]]; then
-   echo "This script must be run as root" 
-   exit 1
+    echo "Please run this script as root." >&2
+    exit 1
 fi
 
-# update system's package list
-apt update
+# Gravity runs as the pihole user and needs access to the working directory.
+cd /tmp
 
-# upgrade all installed packages
-apt upgrade -y
+# Update Debian packages.
+apt-get update
+apt-get upgrade -y
+apt-get autoremove -y
 
-# remove packages that are now no longer needed
-apt autoremove -y
-
-# update Pi-hole Core, Web Interface and FTL
+# Update Pi-hole and the lists updater.
 pihole -up
-
-# disable default gravity update schedule
-sed -e '/pihole updateGravity/ s/^#*/#/' -i /etc/cron.d/pihole
-
-# update pihole-updatelists script
 pihole-updatelists --update
 
-# rebuilds the Pi-hole Gravity database from scratch using all configured blocklists
+# Disable Pi-hole's default Gravity update schedule.
+if [[ -f /etc/cron.d/pihole ]]; then
+    sed -i '/pihole[[:space:]]\+updateGravity/ s/^#*/#/' /etc/cron.d/pihole
+fi
+
+# Recreate the Gravity database, importing any existing migration backup.
 pihole -g -r recreate
 
-# update Pi-hole's lists from remote sources
-pihole-updatelists
+# Import the configured remote lists, then build Gravity from them.
+pihole-updatelists --no-gravity --no-reload
+pihole -g
