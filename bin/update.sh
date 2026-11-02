@@ -12,9 +12,9 @@ fi
 cd /tmp
 
 # Update Debian packages.
-apt-get update
-apt-get upgrade -y
-apt-get autoremove -y
+apt update
+apt upgrade -y
+apt autoremove -y
 
 # Update Pi-hole and the lists updater.
 pihole -up
@@ -28,6 +28,5 @@ fi
 # Recreate the Gravity database, importing any existing migration backup.
 pihole -g -r recreate
 
-# Import the configured remote lists, then build Gravity from them.
-pihole-updatelists --no-gravity --no-reload
-pihole -g
+# Import configured remote lists and update Gravity (UPDATE_GRAVITY=true).
+pihole-updatelists
